@@ -1,0 +1,24 @@
+Este é um certificado de revogação para a chave OpenPGP:
+
+             VINICIUS SANTANA <viniibl4ck@gmail.com>
+ Fingerprint: 670EBC53A4F2448DFC6E1F245CB8E88E8602BE3F
+
+Um certificado de revogação é uma espécie de "interruptor" para declarar
+publicamente que uma chave não deverá ser mais usada. Não é possível
+cancelar um certificado de revogação assim que for publicado.
+
+Use-o para revogar esta chave em caso de comprometimento
+ou perda da chave secreta.
+
+Para evitar um uso acidental deste arquivo, foram inseridos dois-pontos
+antes dos 5 traços abaixo. Remova este símbolo com um editor de texto
+antes de importar e publicar este certificado de revogação.
+
+:-----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: This is a revocation certificate
+
+iHgEIBYKACAWIQRnDrxTpPJEjfxuHyRcuOiOhgK+PwUCZBEU/AIdAAAKCRBcuOiO
+hgK+P/RJAPwNIdfekVH+edmCGAEk006upgc7GLBMmRw2ei5IxIvC4QD+N6wNr29A
+K2PjtDNZO8u6sgD75Egs1WdrL4n+g6D29gc=
+=dEAl
+-----END PGP PUBLIC KEY BLOCK-----
